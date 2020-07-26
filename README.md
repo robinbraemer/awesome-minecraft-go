@@ -6,4 +6,5 @@ Awesome lists about interesting Minecraft in Go / Golang projects
 - https://github.com/LilyPad/GoLilyPad
 
 ## Other
+- https://github.com/minekube/common
 - https://github.com/beito123/nbt
