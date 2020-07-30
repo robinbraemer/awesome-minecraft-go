@@ -8,6 +8,7 @@ Awesome lists about interesting Minecraft in Go / Golang projects
 
 ## Other
 - https://github.com/minekube/common
+- https://github.com/Lukaesebrot/mojango
 - https://github.com/Tnze/go-mc
   - A Minecraft text components library and more
 - https://github.com/beito123/nbt
