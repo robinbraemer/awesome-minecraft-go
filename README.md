@@ -1,7 +1,8 @@
 # awesome-minecraft-go
 Awesome lists about interesting Minecraft in Go / Golang projects
 
-## Server/Proxy implementations
+## Server/Proxy
+- https://github.com/Craftserve/potoq
 - https://github.com/GoLangMc/minecraft-server
 - https://github.com/LilyPad/GoLilyPad
 
