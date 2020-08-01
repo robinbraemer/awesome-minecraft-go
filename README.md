@@ -32,6 +32,7 @@ Awesome lists about interesting Minecraft in Go / Golang projects
 - https://github.com/beito123/nbt
 - https://github.com/dizzyd/mcdex
 - https://github.com/silvasur/gomcmap
+- https://github.com/elyby/chrly
 - https://github.com/xmdhs/gomclauncher
 - https://github.com/justblender/gominet
 - https://github.com/dhghf/mcauth
@@ -40,9 +41,10 @@ Awesome lists about interesting Minecraft in Go / Golang projects
 - https://github.com/go-mc/mcping
 - https://github.com/dotStart/Stockpile
 
-## Clients
+## Clients/Clones
 - https://github.com/Thinkofname/steven-go
 - https://github.com/piochelepiotr/minecraftGo
+- https://github.com/benanders/Mineral
 
 ## Not Go but also very interesting
 - https://github.com/cuberite/cuberite
