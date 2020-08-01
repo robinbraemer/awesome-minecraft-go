@@ -5,7 +5,6 @@ Awesome lists about interesting Minecraft in Go / Golang projects
 ## Server/Proxy
 - https://github.com/Craftserve/potoq
 - https://github.com/TyphoonMC/TyphoonLimbo
-- https://github.com/Sandertv/gophertunnel
 - https://github.com/olsdavis/goelan
 - https://github.com/itzg/mc-router
 - https://github.com/GoLangMc/minecraft-server
@@ -18,6 +17,7 @@ Awesome lists about interesting Minecraft in Go / Golang projects
 
 ## Bedrock Server/Proxy
 - https://github.com/df-mc/dragonfly
+- https://github.com/Sandertv/gophertunnel
 - https://github.com/Irmine/GoMine
 - https://github.com/SpecterTeam/Specter
 
