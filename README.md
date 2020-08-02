@@ -3,6 +3,8 @@ Awesome lists about interesting Minecraft in Go / Golang projects
  (ordered in a non-opinionated order)
 
 ## Server/Proxy
+- https://github.com/minekube/gate
+  - An extensible Minecraft proxy written in Go.
 - https://github.com/Craftserve/potoq
 - https://github.com/TyphoonMC/TyphoonLimbo
 - https://github.com/olsdavis/goelan
